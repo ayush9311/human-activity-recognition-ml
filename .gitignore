@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+logs/
+
+UCI HAR Dataset/train/
+UCI HAR Dataset/test/
+UCI HAR Dataset/Inertial Signals/
+
+*.xlsx
